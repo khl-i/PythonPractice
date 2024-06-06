@@ -7,7 +7,7 @@ from os import path
 import abc
 import numpy as np
 from typing import Callable
-from ultil import SMA, crossover
+from util import SMA, crossover
 from numbers import Number
 
 
