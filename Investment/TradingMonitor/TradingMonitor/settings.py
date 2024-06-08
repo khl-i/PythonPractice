@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'TradingMonitor', # 这里把我们的 app 加上
 ]
 
 MIDDLEWARE = [

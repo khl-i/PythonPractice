@@ -3,7 +3,7 @@
 
 
 import requests
-import timeit
+import time
 import websocket
 import threading
 import ssl
