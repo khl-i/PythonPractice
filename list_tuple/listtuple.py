@@ -1,7 +1,4 @@
-# -*- coding:utf-8 -*-
-# 基础篇 03 列表和元组
-
-import numpy as np
+# -*- coding: utf-8 -*-
 
 if __name__ == "__main__":
     l = [1, 2, "hello", "world"]

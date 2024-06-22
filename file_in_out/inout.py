@@ -1,10 +1,7 @@
-#coding:utf-8
-#第6课:输入与输出
-
+# -*- coding: utf-8 -*-
 
 import re
 import json
-
 
 # 处理文本
 def parse(text):

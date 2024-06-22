@@ -1,6 +1,4 @@
 # -*- coding:utf-8 -*-
-# 基础篇 04 字典和集合
-
 
 # 根据商品ID求价格，用列表
 def find_product_price(products, product_id):
